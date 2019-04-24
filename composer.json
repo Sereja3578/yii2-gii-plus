@@ -1,5 +1,5 @@
 {
-  "name": "Sereja3578/yii2-gii-plus",
+  "name": "sereja3578/yii2-gii-plus",
   "description": "Yii 2 Gii Plus Extension",
   "keywords": [
     "yii2",
@@ -26,7 +26,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Sereja3578\\gii\\plus\\": ""
+      "sereja3578\\gii\\plus\\": ""
     }
   },
   "extra": {
