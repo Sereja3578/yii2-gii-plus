@@ -1,5 +1,5 @@
 {
-  "name": "pvsaintpe/yii2-gii-plus",
+  "name": "Sereja3578/yii2-gii-plus",
   "description": "Yii 2 Gii Plus Extension",
   "keywords": [
     "yii2",
@@ -10,8 +10,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Pavel Veselov",
-      "email": "pvsaintpe@icloud.com"
+      "name": "Sergey Ilichev",
+      "email": "Maksimus1991@mail.ru"
     }
   ],
   "require": {
@@ -26,7 +26,7 @@
   },
   "autoload": {
     "psr-4": {
-      "pvsaintpe\\gii\\plus\\": ""
+      "Sereja3578\\gii\\plus\\": ""
     }
   },
   "extra": {
